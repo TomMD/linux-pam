@@ -1,2 +1,2 @@
 setup = ".muse/setup.sh"
-build = "make"
+build = "compdb"
